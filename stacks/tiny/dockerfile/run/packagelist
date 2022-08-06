@@ -1,0 +1,14 @@
+base-files
+ca-certificates
+fontconfig-config
+fonts-dejavu-core
+libc6
+libexpat1
+libfontconfig1
+libfreetype6
+libpng16-16
+libssl1.1
+netbase
+openssl
+tzdata
+zlib1g
